@@ -21,6 +21,7 @@
   "dependencies": {
     "cors": "2.8.5",
     "dotenv": "14.3.0",
+    "espn-fantasy-football-api": "^0.16.1",
     "express": "4.17.2",
     "helmet": "5.0.2",
     "knex": "1.0.1",
